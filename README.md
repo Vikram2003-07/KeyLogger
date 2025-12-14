@@ -18,10 +18,6 @@ This project appears to implement a simple keylogger that records keyboard input
 - Python 3.8+ recommended.
 - Possible third-party packages commonly used for similar scripts include `pynput` or `keyboard`. Inspect `app.py` to determine the actual modules required.
 
-Example (install both if unsure):
-```
-python3 -m pip install --user pynput keyboard
-```
 
 ## Installation & Setup
 
