@@ -21,33 +21,23 @@ This project appears to implement a simple keylogger that records keyboard input
 
 ## Installation & Setup
 
-1. Clone the repository:
+1. **Clone the repository:**
    ```
    git clone https://github.com/Vikram2003-07/KeyLogger.git
    cd KeyLogger
    ```
 
-2. (Optional) Create and activate a virtual environment:
-   ```
-   python3 -m venv venv
-   source venv/bin/activate   # Linux/macOS
-   venv\Scripts\activate      # Windows
-   ```
-
-3. Install dependencies after inspecting `app.py` to confirm what is required:
+2. **Install dependencies after inspecting `app.py` to confirm what is required:**
    ```
    python3 -m pip install -r requirements.txt
    ```
-
-
-## Usage
-
-1. Carefully review `app.py` to understand its behavior and ensure you have permission to run it.
-2. Run the script:
+   
+3. **Run the application:**
    ```
    python3 app.py
    ```
-3. If the script writes keystrokes to `keyloggerfile.txt`, that file will contain the logged data. Check and manage this file responsibly.
+   
+4. **If the script writes keystrokes to `keyloggerfile.txt`, that file will contain the logged data. Check and manage this file responsibly.**
 
 ## How it likely works
 
